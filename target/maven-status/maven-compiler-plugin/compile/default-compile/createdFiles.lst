@@ -1,4 +1,5 @@
 sorting/sort.class
+sorting/bubbleSort.class
 sorting/insertionSort.class
 sorting/selectionSort.class
 sorting/mainclass.class
