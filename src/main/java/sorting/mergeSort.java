@@ -3,7 +3,7 @@ package sorting;
 import java.util.ArrayList;
 import sorting.sort;
 
-public class mergeSort extends sort{
+public class mergeSort implements sort{
     public ArrayList<Integer> sorting (ArrayList<Integer> arr){
         return mergeSort(arr,0,arr.size());
     }

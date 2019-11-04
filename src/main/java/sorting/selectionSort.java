@@ -2,7 +2,7 @@ package sorting;
 
 import java.util.ArrayList;
 
-public class selectionSort extends sort{
+public class selectionSort implements sort{
     public ArrayList<Integer> sorting(ArrayList<Integer> arr){
         int curmin,tmp;
 		for(int j=0;j<arr.size();j++){

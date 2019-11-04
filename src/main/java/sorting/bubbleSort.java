@@ -2,7 +2,7 @@ package sorting;
 
 import java.util.ArrayList;
 
-public class bubbleSort extends sort{
+public class bubbleSort implements sort{
 
     public ArrayList<Integer> sorting(ArrayList<Integer> arr){
         for(int i=0;i<arr.size();i++){

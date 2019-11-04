@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import sorting.sort;
 import java.util.List;
 
-public class insertionSort extends sort{
+public class insertionSort implements sort{
 
     public ArrayList<Integer> sorting(ArrayList<Integer> arr){
         List<Integer> subList;
