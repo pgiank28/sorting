@@ -1,4 +1,8 @@
 # sorting
 
-A simple sorting in java.
-Merge sort,insertion sort and selection sort.
+A simple sorting in java.Sorting algorithms included:
+
+Merge sort
+insertion sort
+selection sort
+bubble sort
