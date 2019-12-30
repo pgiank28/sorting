@@ -1,6 +1,9 @@
 sorting/sort.class
 sorting/bubbleSort.class
+sorting/heapSort$Heap.class
 sorting/insertionSort.class
+sorting/heapSort.class
+sorting/mergeSort.class
 sorting/selectionSort.class
 sorting/mainclass.class
-sorting/mergeSort.class
+sorting/heapSort$1.class
