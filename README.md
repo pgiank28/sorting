@@ -9,3 +9,7 @@ insertion sort
 selection sort
 
 bubble sort
+
+heap sort
+
+quick sort

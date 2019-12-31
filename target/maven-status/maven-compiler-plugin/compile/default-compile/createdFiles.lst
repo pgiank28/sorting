@@ -4,6 +4,7 @@ sorting/heapSort$Heap.class
 sorting/insertionSort.class
 sorting/heapSort.class
 sorting/mergeSort.class
+sorting/quickSort.class
 sorting/selectionSort.class
 sorting/mainclass.class
 sorting/heapSort$1.class
