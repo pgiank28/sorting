@@ -11,7 +11,6 @@ public class quickSort implements sort{
   public ArrayList<Integer> quicksort(ArrayList<Integer>a,int p,int r){
     if(p<r){
       int q = partition(a,p,r);
-      System.out.println("q = "+q);
       a = quicksort(a,p,q-1);
       a = quicksort(a,q+1,r);
     }
