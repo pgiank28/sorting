@@ -3,6 +3,7 @@ sorting/bubbleSort.class
 sorting/heapSort$Heap.class
 sorting/insertionSort.class
 sorting/heapSort.class
+sorting/countingSort.class
 sorting/mergeSort.class
 sorting/quickSort.class
 sorting/selectionSort.class
