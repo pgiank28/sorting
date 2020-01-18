@@ -9,3 +9,4 @@ sorting/quickSort.class
 sorting/selectionSort.class
 sorting/mainclass.class
 sorting/heapSort$1.class
+sorting/radixSort.class
