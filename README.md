@@ -1,15 +1,19 @@
-# sorting
+## sorting
 
-A simple sorting in java.Sorting algorithms included:
+A simple sorting program in java.Sorting algorithms included:
 
-Merge sort
+-Merge sort
 
-insertion sort
+-Insertion sort
 
-selection sort
+-Selection sort
 
-bubble sort
+-Bubble sort
 
-heap sort
+-Heap sort
 
-quick sort
+-Quick sort
+
+-Counting sort
+
+-Radix sort
